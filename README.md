@@ -1,3 +1,3 @@
-### Hi there 👋  My name is Barry.  I am in a graduate cybersecurity program at Western Governors University but don't let that fool you; 3 years ago I retired from the military and had to figure what to do, so...my cyber quest began with zero experience. Coding/github, I don't know much about.
+### Hi there 👋  My name is Barry. I retired out of the Army in 2021 and my career change cyber quest began with zero experience. Presently, I hold a BS and MS in Cybersecurity & Information Assurance at Western Governors University. I think the most important take away from this academic trek is knowing that what I know is, I don't know enough.
 
 
